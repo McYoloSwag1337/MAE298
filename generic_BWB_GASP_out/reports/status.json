@@ -1,0 +1,11 @@
+{
+ "Problem": "generic_BWB_GASP",
+ "Script": "C:\\Users\\ephra\\anaconda3\\envs\\mae298\\Scripts\\aviary",
+ "Optimizer": "ScipyOptimize_SLSQP",
+ "Number of driver iterations": 2,
+ "Number of model evals": 3,
+ "Number of deriv evals": 1,
+ "Wall clock run time": "00 hours 00 minutes 05 seconds 253.5 milliseconds",
+ "Exit status": "FAIL",
+ "Report generation date and time": "2025-10-16 10:44:50 "
+}

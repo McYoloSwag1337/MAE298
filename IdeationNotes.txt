@@ -1,0 +1,65 @@
+Subsystem definition and interfaces
+
+The propulsion subsystem is responsible for successfully providing enough thrust to the airframe in order to fulfill mission requirements.
+
+Inputs:
+Flight Conditions:
+Mach Number
+Altitude
+Temp
+Aircraft Inputs:
+Throttle Control
+Fuel
+
+Outputs:
+Thrust
+TSFC
+Power (for hybrid)
+
+Coupled Subsystems:
+Mission
+Mass/Cost
+Emissions
+
+Literature Snapshot
+1. https://www.sciencedirect.com/science/article/pii/S0306261925005859?via%3Dihub
+Hybrid Electric Propulsion 
+Increase thrust by 46.85%
+Reduce SFC by 4.20%
+
+Risk and  
+
+
+
+
+NOTES
+Mass:
+Probably going to Increase
+Ideas: get rid of all aliuminum and replace with lighter material approved by FAA (potentially)
+Look into new materials
+
+
+Propulsion:
+hybrid propulsion parallel
+
+Dr Harvey
+
+Build another external subsystem instead of editing engine decks
+Maybe pivot to doing Cost
+
+Look at pivoting out of propulsion
+
+Realistic is adding and subtracting Subsystems
+
+Engine decks are proprietary
+
+try linking in pycycle (links engine performance)
+
+Try using a scaling value and optimize that for the mission
+
+Goal:
+Number of engines
+Scaling of engines
+
+
+Gantt Chart
