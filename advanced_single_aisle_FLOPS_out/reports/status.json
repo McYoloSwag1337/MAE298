@@ -1,11 +1,11 @@
 {
  "Problem": "advanced_single_aisle_FLOPS",
- "Script": "C:\\Users\\ephra\\anaconda3\\envs\\mae298\\Scripts\\aviary",
+ "Script": "c:/Users/ephra/OneDrive/Desktop/PythonScripts/MAE298/Aviary/aviary/examples/run_level1_example.py",
  "Optimizer": "ScipyOptimize_SLSQP",
  "Number of driver iterations": 24,
  "Number of model evals": 25,
  "Number of deriv evals": 13,
- "Wall clock run time": "00 hours 00 minutes 08 seconds 462.1 milliseconds",
+ "Wall clock run time": "00 hours 00 minutes 08 seconds 563.7 milliseconds",
  "Exit status": "SUCCESS",
- "Report generation date and time": "2025-10-16 10:59:11 "
+ "Report generation date and time": "2025-11-03 14:57:29 "
 }
